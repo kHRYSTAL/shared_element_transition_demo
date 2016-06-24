@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shared_element_transition_demo</string>
+    <string name="title_activity_after_second">AfterSecondActivity</string>
+    <string name="title_activity_pre_second">PreSecondActivity</string>
+</resources>
